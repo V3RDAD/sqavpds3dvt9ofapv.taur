@@ -1,2 +1,2 @@
 # sqavpds3dvt9ofapv.taur
-Page to set of instructions.
+Page to download the set of instructions.
