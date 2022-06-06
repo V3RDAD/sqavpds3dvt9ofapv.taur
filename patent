@@ -13,22 +13,22 @@ It's just a term I use to describe the space where floating point operations in 
                                  |   Random number generator  |----------------------|---.     GEOMETRIC ALGORITHM SHORTCUT FAMILY          |
                                  |           (1,10)           |                      |   |                                                  |
                                  |____________________________|                      |___|__________________________________________________|
-																					 |                           |                          |
+										     |                           |                          |
                                                                                      |            UN4            |          ON4             |
                                                                                      |  Reaches the second point |  Reaches the first point |
                                                                                      |            (-0)           |          (+0)            |
                                                                                      |___._______________________|__________________________|
                                                                                          |
                                                                                     	 |
-                                                                                    	 |
-                                                                                    	 |
+                                                                                       	 |
+                                                                                       	 |
                                                                                       ___|________________________________
                                                                                      |                                    |
-	 ___________________________________________________________________             | CONSOLE OUTPUT REPEATING NUMBERS   |
-	|                                                                   |            | ENVELOPING THE SECOND POINT ZERO,  |
-	|                                                                   |            | AND RETURNING WITH THE DIRECTION   |
-	|                        BEGIN SYSTEM DRAWING                       |------------|  OF RIGHT TOWARDS THE FIRST POINT. |
-	|                                                                   |            |                                    |
+     ___________________________________________________________________             | CONSOLE OUTPUT REPEATING NUMBERS   |
+    |                                                                   |            | ENVELOPING THE SECOND POINT ZERO,  |
+    |                                                                   |            | AND RETURNING WITH THE DIRECTION   |
+    |                        BEGIN SYSTEM DRAWING                       |------------|  OF RIGHT TOWARDS THE FIRST POINT. |
+    |                                                                   |            |                                    |
     |___________________________________________________________________|            |____________________________________|
     |                               |                                   |
     |       PREDICTION OF           |     WRITING INTO THE STRUCTURE    |
@@ -49,17 +49,17 @@ It's just a term I use to describe the space where floating point operations in 
     |  That are than put on a graph |     wlkro, than we get round.time |
     |  And each number will output  |     of when the event will occur  |
     |  an image. that is than merged|                                   |
-	|  with the other instances,    |     In short terms, we will give  |
+    |  with the other instances,    |     In short terms, we will give  |
     |  creating an image,           |     the program an image that is  |
     |  a graph of all steps in      |     already drawn, and it will    |
     |  place on said graph,         |     "merge it" with the latest    |
     |                               |     time and run of geometric alg.|
     |  and at what time.            |                                   |
-	|                               |                                   |
+    |                               |                                   |
     |  If the place and the time of |                                   |
     |  the round equals,            |                                   |
     |  It is a merging of a branch. |                                   |
-	|                               |                                   |
+    |                               |                                   |
     |_______________________________|___________________________________|
 				 |
 				 |
@@ -73,8 +73,8 @@ It's just a term I use to describe the space where floating point operations in 
 				 |                                                 |  by itself, which is 0, and that is placed on A 0 on the graph, than we have one, A1.    |
 				 |                                                 |  2*2 is 4, which is at 4D on the graph, and the round.time equals to about 3 steps.      |
 				  -------------------------------------------------|  If there are 2 or more same numbers going after each another, we write it as 2xn.       |
-																   |  You get the idea, for each step an image is drawn, the images overlap. Roll the credits |
-																   |__________________________________________________________________________________________|
+					              				   |  You get the idea, for each step an image is drawn, the images overlap. Roll the credits |
+					              				   |__________________________________________________________________________________________|
                                              
 
 
