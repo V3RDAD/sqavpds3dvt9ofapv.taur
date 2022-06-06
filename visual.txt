@@ -61,20 +61,16 @@ It's just a term I use to describe the space where floating point operations in 
     |  It is a merging of a branch. |                                   |
     |                               |                                   |
     |_______________________________|___________________________________|
-				 |
-				 |
-				 |
-				 |
-				 |                                                  __________________________________________________________________________________________
-				 |                                                 |                                                                                          |
-				 |                                                 |  This graph is than created with the set of steps taking place at specific round.time,   |
-				 |                                                 |  And occurs for every number outputted from the console, so for example we have 0.12     |
-				 |                                                 |  The round.time begins at 1, and it's first STEP is 0x1, so it will multiply the number  |
-				 |                                                 |  by itself, which is 0, and that is placed on A 0 on the graph, than we have one, A1.    |
-				 |                                                 |  2*2 is 4, which is at 4D on the graph, and the round.time equals to about 3 steps.      |
-				  -------------------------------------------------|  If there are 2 or more same numbers going after each another, we write it as 2xn.       |
-					              				   |  You get the idea, for each step an image is drawn, the images overlap. Roll the credits |
-					              				   |__________________________________________________________________________________________|
+                                     |                                     
+                                     |             __________________________________________________________________________________________
+                                     |            |  This graph is than created with the set of steps taking place at specific round.time,   |
+                                     |            |  And occurs for every number outputted from the console, so for example we have 0.12     |
+                                     |            |  The round.time begins at 1, and it's first STEP is 0x1, so it will multiply the number  |
+                                     |            |  by itself, which is 0, and that is placed on A 0 on the graph, than we have one, A1.    |
+                                     |            |  2*2 is 4, which is at 4D on the graph, and the round.time equals to about 3 steps.      |
+                                      ------------|  If there are 2 or more same numbers going after each another, we write it as 2xn.       |
+                                                  |  You get the idea, for each step an image is drawn, the images overlap. Roll the credits |
+                                                  |__________________________________________________________________________________________|
                                              
 
 
